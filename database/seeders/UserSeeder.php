@@ -35,7 +35,7 @@ class UserSeeder extends Seeder
                 'alamat' => 'Jl itu',
                 'no_hp' => '087654321',
                 'role' => 'admin',
-                'email' => 'admin_syifa@gmail.com',
+                'email' => 'admin_bintang@gmail.com',
                 'password' => 'password'
             ],
         ];
